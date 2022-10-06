@@ -1,0 +1,31 @@
+{
+  "name": "js-1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teenrage-dev/node-js-1-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teenrage-dev/node-js-1-homework/issues"
+  },
+  "homepage": "https://github.com/teenrage-dev/node-js-1-homework#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
